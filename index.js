@@ -10,4 +10,5 @@ import Greeter from './components/greeter'
 render(
   <div>
     <Greeter name='Rahmona'/>
+    <Counter/>
   </div>, document.querySelector('main'))
