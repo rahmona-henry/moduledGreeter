@@ -1,7 +1,7 @@
 
 # moduledGreeter
 
-it's a real sweet app
+A simple web app to practice modulating React components.
 
 ## how
 
@@ -9,7 +9,7 @@ it's a real sweet app
 
 ```
 git clone https://github.com/rahmona-henry/moduledGreeter
-cd 
+cd
 npm install
 ```
 
